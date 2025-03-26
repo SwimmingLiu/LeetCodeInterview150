@@ -39,7 +39,7 @@ public class Q27 {
     }
 
     public static void main(String[] args) {
-        int[] nums1 = {3, 2, 2, 3};
+        int[] nums1 = {3, 2, 2, 3, 2};
         System.out.println(removeElement(nums1, 3));
     }
 }
